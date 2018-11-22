@@ -22,6 +22,8 @@
     "gulp-sequence": "^1.0.0",
     "gulp-util": "^3.0.8",
     "istanbul": "^0.4.5",
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+    "mongoose": "^5.3.13",
+    "mongose": "0.0.2-security"
   }
 }
